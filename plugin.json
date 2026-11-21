@@ -1,0 +1,19 @@
+﻿{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "cf-rating-estimator",
+  "displayName": "CF Rating Estimator",
+  "version": "1.0.0",
+  "description": "Quantitatively evaluate and predict Codeforces ratings for competitive programming problems using a first-principles 5D model.",
+  "logo": "logo.svg",
+  "suggestedPrompts": [
+    "评估这道算法题对应的 Codeforces Rating 与难度槽位",
+    "使用 cf-rating-estimator 分析这道题的五维难度拆解",
+    "帮我定级这道算法竞赛题，预测其 CF 分数与坑点"
+  ],
+  "author": {
+    "name": "2542068503"
+  },
+  "repository": "https://github.com/2542068503/cf-rating-estimator",
+  "license": "MIT",
+  "keywords": ["codeforces", "competitive-programming", "rating", "algorithm", "evaluator"]
+}
